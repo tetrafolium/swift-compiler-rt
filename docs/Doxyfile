@@ -1,0 +1,8 @@
+PROJECT_NAME     = Swift Compiler
+OUTPUT_LANGUAGE  = English
+EXTRACT_ALL      = YES
+INPUT            = ../
+GENERATE_LATEX   = NO
+GENERATE_TREEVIEW      = YES
+USE_INLINE_TREES       = NO
+TREEVIEW_WIDTH         = 250
